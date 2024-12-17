@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Amanda Pérez",
+      "email": "amanda.perez@gmail.com",
+      "password": "owner1234",
+      "role": "owner"
+    },
+    {
+      "id": 2,
+      "name": "María López",
+      "email": "maria.lopez@gmail.com",
+      "password": "guest123",
+      "role": "guest"
+    },
+    {
+      "id": 3,
+      "name": "Juan Rodríguez",
+      "email": "juan.rodriguez@gmail.com",
+      "password": "guest123",
+      "role": "guest"
+    },
+    {
+      "id": 4,
+      "name": "Ana Gómez",
+      "email": "ana.gomez@gmail.com",
+      "password": "guest123",
+      "role": "guest"
+    },
+    {
+      "id": 5,
+      "name": "Luis Fernández",
+      "email": "luis.fernandez@gmail.com",
+      "password": "guest123",
+      "role": "guest"
+    }
+  ]
