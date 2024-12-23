@@ -33,7 +33,7 @@ export const login = async (req, res) => {
       });
     } else {
       console.log("Usuario no encontrado o credenciales incorrectas.");
-      return res.status(404).json({
+      return res.status(200).json({
         status: 404,
         message: "usuario no existe",
       });
